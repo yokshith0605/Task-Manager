@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow SQLite Task Manager",
+  "description": "Interactive Task Management Dashboard with HTML, CSS, JavaScript frontend and SQLite 3 database integration for task tracking and SQL query inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
